@@ -11,7 +11,7 @@
 % \include "scores/ob1.ly"
 % \include "scores/ob2.ly"
 % \include "scores/cor12.ly"
-% \include "scores/tr12timp.ly"
+% \include "scores/clno12timp.ly"
 % \include "scores/vl1.ly"
 % \include "scores/vl2.ly"
 % \include "scores/coro.ly"

@@ -54,7 +54,10 @@
 		\paper { indent = 2\cm }
 		\score {
 			<<
-				\new Staff { \Organo }
+				\new Staff {
+					\set Staff.instrumentName = "Bassi"
+					\Organo
+				}
 			>>
 		}
 	}
