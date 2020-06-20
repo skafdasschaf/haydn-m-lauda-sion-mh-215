@@ -78,8 +78,6 @@
 		\fill-line {
 			\line {
 				\fontsize #3 {
-	 				\with-color #(rgb-color .8313 0 0) { \fromproperty #'header:number }
-	 			 	\hspace #3
 	 			 	\fromproperty #'header:title
 				}
 			}
@@ -629,6 +627,9 @@ tocLabel = #(define-music-function
 
 
 tempoLaudaSion = \tempoMarkup "Allegro moderato"
+tempoFracto = \tempoMarkup "Andantino"
+tempoBonePastor = \tempoMarkup "Adagio"
+tempoTuNos = \tempoMarkup "Allegretto"
 
 
 \include "notes/ob1.ly"

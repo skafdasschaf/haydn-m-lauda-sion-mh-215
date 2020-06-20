@@ -32,6 +32,7 @@
 				\new StaffGroup <<
 					\new Staff <<
 						\set Staff.instrumentName = \markup \center-column { "Corno I, II" "in G" }
+						% \transpose c g,
 						\partcombine \CornoI \CornoII
 					>>
 					\new Staff <<
